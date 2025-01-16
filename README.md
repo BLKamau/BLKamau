@@ -1,5 +1,7 @@
 # Hi there! I'm Thabo Mantsima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blkamau&label=Profile%20views&color=0e75b6&style=flat" alt="blkamau" /> </p>
+
 ## 🚀 About Me
 
 🎓 I am a **Mechatronics Engineer** from Botswana, (specializing in **Electonic & Embedded System Design & Django Web Development**). I am also Pursuing my Bachelor in **Mechatronics & Industrial Instrumentation**, expected to graduate in 2026 mid-year. Enrolled in **Botswana International University of Science & Technology**.
