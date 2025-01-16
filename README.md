@@ -49,7 +49,7 @@
 ![FreeCAD](https://img.shields.io/badge/freecad-%23314CB0.svg?style=for-the-badge&logo=freecad&logoColor=white&style=flat)
 
 ## Automation Design
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='rockwellautomation' src='https://img.shields.io/badge/Fusion360-100000?style=flat&logo=rockwellautomation&logoColor=005386&labelColor=FFFFFF&color=FF6400'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='rockwellautomation' src='https://img.shields.io/badge/Rockwell_Automation-100000?style=flat&logo=rockwellautomation&logoColor=005386&labelColor=FFFFFF&color=FF6400'/></a>
 
 ## Code Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&style=flat)
