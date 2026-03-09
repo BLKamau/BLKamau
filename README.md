@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Mechatronics Engineer** from Botswana, (specializing in **Electonic & Embedded System Design & Django Web Development**). I am also Pursuing my Bachelor in **Mechatronics & Industrial Instrumentation**, expected to graduate in 2026 mid-year. Enrolled in **Botswana International University of Science & Technology**.
+🎓 I am a **Mechatronics Engineer** from Botswana, (specializing in **Electronic & Embedded System Design & Django Web Development**). I am also pursuing my Bachelor's in **Mechatronics & Industrial Instrumentation**, expected to graduate in 2026 mid-year. Enrolled in **Botswana International University of Science & Technology (BIUST)**.
 
-👨‍💻 I enjoy designing systems, wheather it be electronics, mechanical, and or software systems. I have desire to learn new technology. At the moment I'm learning **PCB Design using KiCAD**, builiding data pipelines and visiulizing them with **Streamlit**, and  . My main field of interest is **IoT (Intermet Of Things)** driven projects with real world applications. I have so much room for growth.
+👨‍💻 I enjoy designing systems, wheather it be electronics, automation, and or software systems. I have a desire to learn new technology. At the moment I'm learning **PCB Design using KiCAD & Computer Vision**, builiding data pipelines and visiulizing them with **Streamlit**. My biggest project I'm currently working on is a SMART Navigation System for the Visually Impaired as my Final Year Project. My main field of interest is **IoT (Internet of Things)** driven projects with real-world applications. I have so much room for growth.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies mainly include, **cooking**,  **gaming**, and **reading**(ranging from articles and papers to financial literacy and personal development). 
+🎸 Outside the world of tech, too, I enjoy pushing myself to develop new skills. My hobbies mainly include **cooking**,  **gaming**, and **reading**(ranging from articles and papers to financial literacy and personal development). 
 
 ## 🛠️ Skills
 
