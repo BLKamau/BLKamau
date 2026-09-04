@@ -1,4 +1,4 @@
-<h1 align="center">Thabo "Tbombo" Mantsima</h1>
+<h1 align="center">Thabo Mantsima</h1>
 <p align="center"><i>Mechatronics Engineer turned backend developer — I build the systems underneath things, whether that's a circuit board or an API.</i></p>
 
 <p align="center">
