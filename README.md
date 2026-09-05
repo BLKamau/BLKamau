@@ -29,11 +29,15 @@ Right now I freelance as a backend developer with **Enovative Inc.**, a Botswana
 
 ### What I'm Currently Working On
 
-🧠 Sharpening computer vision skills — semantic scene understanding on edge hardware
-🎮 Learning reinforcement learning fundamentals through RL Pong — training PPO/DQN agents and building out evaluation tooling
-⚛️ Pushing past my Django/HTMX comfort zone into React, via a small side project called Chaotic Recipe Roulette
-🔧 Building a central API marketplace for Botswana's data
-🚀 Working on improving my coding ability — through LeetCode problems
+- 🧠 Sharpening computer vision skills — semantic scene understanding on edge hardware
+
+- 🎮 Learning reinforcement learning fundamentals through RL Pong — training PPO/DQN agents and building out evaluation tooling
+
+- ⚛️ Pushing past my Django/HTMX comfort zone into React, via a small side project called Chaotic Recipe Roulette
+
+- 🔧 Building a central API marketplace for Botswana's data
+
+- 🚀 Working on improving my coding ability — through LeetCode problems
 
 ---
 
