@@ -43,4 +43,4 @@ Right now I freelance as a backend developer with **Enovative Inc.**, a Botswana
 
 ### Let's Connect
 
-📧 mantsimat@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](linkedin/in/thabo-mantsima) &nbsp;|&nbsp; 🌐 [Portfolio](#)
+📧 mantsimat@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](linkedin/in/thabo-mantsima) &nbsp;|&nbsp; 🌐 [Portfolio](https://thabo-portfolio-beta.vercel.app/)
